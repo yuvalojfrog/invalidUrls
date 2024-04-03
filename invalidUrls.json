@@ -1,0 +1,6 @@
+{
+  "https://repo.maven.apache.org": ["docker", "Npm", "Conda"],
+  "https://repo.anaconda.com": ["docker", "Npm", "MAVEN"],
+  "https://registry.npmjs.org": ["docker", "MAVEN", "Conda"],
+  "https://registry-1.docker.io": ["Npm", "MAVEN", "Conda"]
+}
