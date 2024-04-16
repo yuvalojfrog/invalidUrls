@@ -1,0 +1,28 @@
+{
+  "globallyDeniedUrls": {
+    "http://dl-cdn.alpinelinux.org": ["Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://github.com": ["Alpine","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://supermarket.chef.io": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://index.crates.io": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://repo.anaconda.com": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://center.conan.io": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://cran.r-project.org": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "http://archive.ubuntu.com": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://registry-1.docker.io": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://rubygems.org": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://proxy.golang.org": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://repo1.maven.org": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://repo.chartcenter.io": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://registry.npmjs.org": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Nuget","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://www.nuget.org": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Opkg","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://downloads.openwrt.org": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Puppet","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://forgeapi.puppetlabs.com": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Pypi","Yum","Pub","HuggingFaceML"],
+    "https://files.pythonhosted.org": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Yum","Pub","HuggingFaceML"],
+    "http://mirror.centos.org": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Pub","HuggingFaceML"],
+    "https://pub.dartlang.org": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","HuggingFaceML"],
+    "https://huggingface.co": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Puppet","Pypi","Yum","Pub"]
+  },
+  "explicitlyDeniedUrlRoute": {
+    "https://nodejs.org/dist": ["Npm"]
+  }
+}
