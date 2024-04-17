@@ -1,0 +1,12 @@
+{
+  "globallyDeniedUrls": {
+    "https://repo.maven.apache.org": ["docker", "Npm", "Conda"],
+    "https://repo.anaconda.com": ["docker", "Npm", "MAVEN"],
+    "https://registry.npmjs.org": ["docker", "MAVEN", "Conda"],
+    "https://registry-1.docker.io": ["Npm", "MAVEN", "Conda"]
+  },
+  "explicitlyDeniedUrlRoute": {
+    "https://nodejs.org/dist": ["Npm"]
+  },
+  "signature": "y5jUX44FWBRzEvyyK/dHzwuX3BXf2j8rueLIDHn12W9HtBxnU9hCtdURfhxDNGQenLNq6PuQPsWHVyDDJCcqXhMm0rK5+fyHyfMglu+aBItkDXNlJx9UyjNaSxY/tKvf44JpwO1ej25nDSwo7MaQDVI/XVc1lqlinh7wCFSrJcOJDhYJBXO9NLIVV9rFFQnH4J8pnJps7mWzYg7hcKzIClhCEwbPe2QrXS71HMxrM2/Q4kP/mO+iIJCeLt1d1ihbB0gWYer21UdfGdFvg3BfKpnsVXs2t9oVBlGVIsY5eCDQKrZwr7WbuwZ8u+UPKPWb5VAke1Xv0yW6sR+UPkOKtQ=="
+}
